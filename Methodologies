@@ -1,0 +1,15 @@
+Threat hunting methodologies
+
+1. Indicator based:
+
+   a.Indicators of Attack (IOAs): Structured
+ 
+   b.Indicators of Compromise (IOCs): Unstructured
+
+2. Hypothesis driven:
+
+   a. Analytics based: AI/ ML/ UEBA
+ 
+   b. Intelligence based
+
+   c. Situational / Triggered induced
