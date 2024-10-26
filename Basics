@@ -1,0 +1,25 @@
+Golden circle of Threat hunting:
+
+
+
+
+Why is this hunt triggered?? Structures/ Unstructured/ Situational hunt?
+
+What will we be hunting for? IOCs/ IOAs 
+
+How? What tools and log sources will we be looking at for our hunt?
+
+Threat hunting methodologies
+
+Indicator based:
+
+Indicators of Attack (IOAs): Structured
+
+Indicators of Compromise (IOCs): Unstructured
+
+Hypothesis driven:
+Analytics based: AI/ ML/ UEBA
+
+Intelligence based
+
+Situational / Triggered induced
